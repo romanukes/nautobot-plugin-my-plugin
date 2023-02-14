@@ -1,0 +1,26 @@
+{
+  "cookiecutter": {
+    "codeowner_github_usernames": "@smith-ntc",
+    "full_name": "Network to Code, LLC",
+    "email": "info@networktocode.com",
+    "github_org": "nautobot",
+    "plugin_name": "my_plugin",
+    "verbose_name": "My Plugin",
+    "plugin_slug": "my-plugin",
+    "project_slug": "nautobot-plugin-my-plugin",
+    "repo_url": "https://github.com/nautobot/nautobot-plugin-my-plugin",
+    "base_url": "my-plugin",
+    "min_nautobot_version": "1.2.0",
+    "max_nautobot_version": "1.9999",
+    "nautobot_version": "latest",
+    "camel_name": "MyPlugin",
+    "project_short_description": "My Plugin",
+    "version": "0.1.0",
+    "model_class_name": "None",
+    "open_source_license": "Apache-2.0",
+    "docs_base_url": "https://docs.nautobot.com",
+    "docs_app_url": "https://docs.nautobot.com/projects/my-plugin/en/latest",
+    "_template": ".",
+    "_output_dir": "/Users/sergey/ntc/test/cookiecutter-ntc-main/nautobot-plugin"
+  }
+}
