@@ -21,7 +21,7 @@ class MyPluginConfig(PluginConfig):
     description = "My Plugin."
     base_url = "my-plugin"
     required_settings = []
-    min_version = "1.2.0"
+    min_version = "1.5.0"
     max_version = "1.9999"
     default_settings = {}
     caching_config = {}
