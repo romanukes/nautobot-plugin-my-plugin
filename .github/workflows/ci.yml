@@ -83,7 +83,7 @@ jobs:
       fail-fast: true
       matrix:
         python-version: ["3.8"]
-        nautobot-version: ["1.2.0"]
+        nautobot-version: ["1.5.10"]
     env:
       INVOKE_MY_PLUGIN_PYTHON_VER: "${{ matrix.python-version }}"
       INVOKE_MY_PLUGIN_NAUTOBOT_VER: "${{ matrix.nautobot-version }}"
